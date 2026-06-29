@@ -18,7 +18,6 @@
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "latest",
-    "typescript": "latest",
     "vite": "latest"
   },
   "devDependencies": {
@@ -30,6 +29,7 @@
     "eslint-plugin-react-refresh": "latest",
     "globals": "latest",
     "playwright": "^1.61.1",
+    "typescript": "^6.0.3",
     "typescript-eslint": "latest"
   }
 }
